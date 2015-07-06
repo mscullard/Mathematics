@@ -1,0 +1,7 @@
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\Mathematics\Mathematics.UnitTests\bin\Debug\Mathematics.UnitTests.dll
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\Mathematics\Mathematics.UnitTests\bin\Debug\Mathematics.UnitTests.pdb
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\Mathematics\Mathematics.UnitTests\obj\Debug\Mathematics.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\Mathematics\Mathematics.UnitTests\obj\Debug\Mathematics.UnitTests.dll
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\Mathematics\Mathematics.UnitTests\obj\Debug\Mathematics.UnitTests.pdb
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\Mathematics\Mathematics.UnitTests\bin\Debug\Mathematics.dll
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\Mathematics\Mathematics.UnitTests\bin\Debug\Mathematics.pdb
